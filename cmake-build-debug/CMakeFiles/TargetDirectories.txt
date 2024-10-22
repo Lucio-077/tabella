@@ -1,0 +1,3 @@
+C:/Users/9688/CLionProjects/tabella/cmake-build-debug/CMakeFiles/tabella.dir
+C:/Users/9688/CLionProjects/tabella/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/9688/CLionProjects/tabella/cmake-build-debug/CMakeFiles/rebuild_cache.dir
